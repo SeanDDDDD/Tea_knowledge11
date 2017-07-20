@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tea_knowledge</string>
+    <string-array name="leader_menu">
+        <item>头条</item>
+        <item>百科</item>
+        <item>咨询</item>
+        <item>经营</item>
+        <item>数据</item>
+    </string-array>
+</resources>
